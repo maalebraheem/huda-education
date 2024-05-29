@@ -1,0 +1,684 @@
+{
+  "categories": [
+    {
+      "category": "Addition",
+      "subcategories": [
+        {
+          "subcategory": "Easy",
+          "questions": [
+            {
+              "question": "2 + 2 =",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "3 + 2 =",
+              "answers": ["5", "6", "7", "8"],
+              "correctAnswer": "5"
+            },
+            {
+              "question": "4 + 2 =",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "6"
+            },
+            {
+              "question": "5 + 2 =",
+              "answers": ["7", "8", "9", "10"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "6 + 2 =",
+              "answers": ["8", "9", "10", "11"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "7 + 2 =",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "8 + 2 =",
+              "answers": ["10", "11", "12", "13"],
+              "correctAnswer": "10"
+            },
+            {
+              "question": "9 + 2 =",
+              "answers": ["11", "12", "13", "14"],
+              "correctAnswer": "11"
+            },
+            {
+              "question": "3 + 3 =",
+              "answers": ["5", "6", "7", "8"],
+              "correctAnswer": "6"
+            },
+            {
+              "question": "4 + 3 =",
+              "answers": ["7", "8", "9", "10"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "5 + 3 =",
+              "answers": ["8", "9", "10", "11"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "6 + 3 =",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "7 + 3 =",
+              "answers": ["10", "11", "12", "13"],
+              "correctAnswer": "10"
+            },
+            {
+              "question": "8 + 3 =",
+              "answers": ["11", "12", "13", "14"],
+              "correctAnswer": "11"
+            },
+            {
+              "question": "9 + 3 =",
+              "answers": ["12", "13", "14", "15"],
+              "correctAnswer": "12"
+            },
+            {
+              "question": "4 + 4 =",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "5 + 4 =",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "6 + 4 =",
+              "answers": ["10", "11", "12", "13"],
+              "correctAnswer": "10"
+            },
+            {
+              "question": "7 + 4 =",
+              "answers": ["11", "12", "13", "14"],
+              "correctAnswer": "11"
+            },
+            {
+              "question": "8 + 4 =",
+              "answers": ["12", "13", "14", "15"],
+              "correctAnswer": "12"
+            },
+            {
+              "question": "9 + 4 =",
+              "answers": ["13", "14", "15", "16"],
+              "correctAnswer": "13"
+            },
+            {
+              "question": "5 + 5 =",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "10"
+            },
+            {
+              "question": "6 + 5 =",
+              "answers": ["11", "12", "13", "14"],
+              "correctAnswer": "11"
+            },
+            {
+              "question": "7 + 5 =",
+              "answers": ["12", "13", "14", "15"],
+              "correctAnswer": "12"
+            },
+            {
+              "question": "8 + 5 =",
+              "answers": ["13", "14", "15", "16"],
+              "correctAnswer": "13"
+            },
+            {
+              "question": "9 + 5 =",
+              "answers": ["14", "15", "16", "17"],
+              "correctAnswer": "14"
+            },
+            {
+              "question": "6 + 6 =",
+              "answers": ["11", "12", "13", "14"],
+              "correctAnswer": "12"
+            },
+            {
+              "question": "7 + 6 =",
+              "answers": ["12", "13", "14", "15"],
+              "correctAnswer": "13"
+            },
+            {
+              "question": "8 + 6 =",
+              "answers": ["13", "14", "15", "16"],
+              "correctAnswer": "14"
+            },
+            {
+              "question": "9 + 6 =",
+              "answers": ["14", "15", "16", "17"],
+              "correctAnswer": "15"
+            },
+            {
+              "question": "7 + 7 =",
+              "answers": ["13", "14", "15", "16"],
+              "correctAnswer": "14"
+            },
+            {
+              "question": "8 + 7 =",
+              "answers": ["14", "15", "16", "17"],
+              "correctAnswer": "15"
+            },
+            {
+              "question": "9 + 7 =",
+              "answers": ["15", "16", "17", "18"],
+              "correctAnswer": "16"
+            },
+            {
+              "question": "8 + 8 =",
+              "answers": ["15", "16", "17", "18"],
+              "correctAnswer": "16"
+            },
+            {
+              "question": "9 + 8 =",
+              "answers": ["16", "17", "18", "19"],
+              "correctAnswer": "17"
+            },
+            {
+              "question": "9 + 9 =",
+              "answers": ["17", "18", "19", "20"],
+              "correctAnswer": "18"
+            }
+          ]
+        },
+        {
+          "subcategory": "Normal",
+          "questions": [
+            {
+              "question": "? + 2 = 5",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "3"
+            },
+            {
+              "question": "3 + ? = 5",
+              "answers": ["2", "3", "4", "5"],
+              "correctAnswer": "2"
+            },
+            {
+              "question": "? + 4 = 5",
+              "answers": ["1", "2", "3", "4"],
+              "correctAnswer": "1"
+            },
+            {
+              "question": "5 + ? = 5",
+              "answers": ["0", "1", "2", "3"],
+              "correctAnswer": "0"
+            },
+            {
+              "question": "? + 2 = 6",
+              "answers": ["4", "5", "6", "7"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "3 + ? = 6",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "3"
+            },
+            {
+              "question": "? + 4 = 6",
+              "answers": ["1", "2", "3", "4"],
+              "correctAnswer": "2"
+            },
+            {
+              "question": "5 + ? = 6",
+              "answers": ["0", "1", "2", "3"],
+              "correctAnswer": "1"
+            },
+            {
+              "question": "? + 6 = 6",
+              "answers": ["0", "1", "2", "3"],
+              "correctAnswer": "0"
+            },
+            {
+              "question": "? + 2 = 7",
+              "answers": ["5", "6", "7", "8"],
+              "correctAnswer": "5"
+            },
+            {
+              "question": "3 + ? = 7",
+              "answers": ["4", "5", "6", "7"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "? + 4 = 7",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "3"
+            },
+            {
+              "question": "5 + ? = 7",
+              "answers": ["2", "3", "4", "5"],
+              "correctAnswer": "2"
+            },
+            {
+              "question": "? + 6 = 7",
+              "answers": ["1", "2", "3", "4"],
+              "correctAnswer": "1"
+            },
+            {
+              "question": "7 + ? = 7",
+              "answers": ["0", "1", "2", "3"],
+              "correctAnswer": "0"
+            },
+            {
+              "question": "? + 2 = 8",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "6"
+            },
+            {
+              "question": "3 + ? = 8",
+              "answers": ["5", "6", "7", "8"],
+              "correctAnswer": "5"
+            },
+            {
+              "question": "? + 4 = 8",
+              "answers": ["4", "5", "6", "7"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "5 + ? = 8",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "3"
+            },
+            {
+              "question": "? + 6 = 8",
+              "answers": ["2", "3", "4", "5"],
+              "correctAnswer": "2"
+            },
+            {
+              "question": "7 + ? = 8",
+              "answers": ["1", "2", "3", "4"],
+              "correctAnswer": "1"
+            },
+            {
+              "question": "? + 8 = 8",
+              "answers": ["0", "1", "2", "3"],
+              "correctAnswer": "0"
+            },
+            {
+              "question": "? + 2 = 9",
+              "answers": ["7", "8", "9", "10"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "3 + ? = 9",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "6"
+            },
+            {
+              "question": "? + 4 = 9",
+              "answers": ["5", "6", "7", "8"],
+              "correctAnswer": "5"
+            },
+            {
+              "question": "5 + ? = 9",
+              "answers": ["4", "5", "6", "7"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "? + 6 = 9",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "3"
+            },
+            {
+              "question": "7 + ? = 9",
+              "answers": ["2", "3", "4", "5"],
+              "correctAnswer": "2"
+            },
+            {
+              "question": "? + 8 = 9",
+              "answers": ["1", "2", "3", "4"],
+              "correctAnswer": "1"
+            },
+            {
+              "question": "9 + ? = 9",
+              "answers": ["0", "1", "2", "3"],
+              "correctAnswer": "0"
+            },
+            {
+              "question": "? + 2 = 10",
+              "answers": ["8", "9", "10", "11"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "3 + ? = 10",
+              "answers": ["7", "8", "9", "10"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "? + 4 = 10",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "6"
+            },
+            {
+              "question": "5 + ? = 10",
+              "answers": ["5", "6", "7", "8"],
+              "correctAnswer": "5"
+            },
+            {
+              "question": "? + 6 = 10",
+              "answers": ["4", "5", "6", "7"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "7 + ? = 10",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "3"
+            },
+            {
+              "question": "? + 8 = 10",
+              "answers": ["2", "3", "4", "5"],
+              "correctAnswer": "2"
+            }
+          ]
+        },
+        {
+          "subcategory": "Hard",
+          "questions": [
+            {
+              "question": "? + 3 = 11",
+              "answers": ["8", "9", "10", "11"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "4 + ? = 11",
+              "answers": ["7", "8", "9", "10"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "? + 5 = 11",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "6"
+            },
+            {
+              "question": "6 + ? = 11",
+              "answers": ["5", "6", "7", "8"],
+              "correctAnswer": "5"
+            },
+            {
+              "question": "? + 7 = 11",
+              "answers": ["4", "5", "6", "7"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "8 + ? = 11",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "3"
+            },
+            {
+              "question": "? + 9 = 11",
+              "answers": ["2", "3", "4", "5"],
+              "correctAnswer": "2"
+            },
+            {
+              "question": "3 + ? = 12",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "? + 4 = 12",
+              "answers": ["8", "9", "10", "11"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "5 + ? = 12",
+              "answers": ["7", "8", "9", "10"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "? + 6 = 12",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "6"
+            },
+            {
+              "question": "7 + ? = 12",
+              "answers": ["5", "6", "7", "8"],
+              "correctAnswer": "5"
+            },
+            {
+              "question": "? + 8 = 12",
+              "answers": ["4", "5", "6", "7"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "9 + ? = 12",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "3"
+            },
+            {
+              "question": "? + 4 = 13",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "5 + ? = 13",
+              "answers": ["8", "9", "10", "11"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "? + 6 = 13",
+              "answers": ["7", "8", "9", "10"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "7 + ? = 13",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "6"
+            },
+            {
+              "question": "? + 8 = 13",
+              "answers": ["5", "6", "7", "8"],
+              "correctAnswer": "5"
+            },
+            {
+              "question": "9 + ? = 13",
+              "answers": ["4", "5", "6", "7"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "? + 4 = 14",
+              "answers": ["10", "11", "12", "13"],
+              "correctAnswer": "10"
+            },
+            {
+              "question": "5 + ? = 14",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "? + 6 = 14",
+              "answers": ["8", "9", "10", "11"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "7 + ? = 14",
+              "answers": ["7", "8", "9", "10"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "? + 8 = 14",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "6"
+            },
+            {
+              "question": "9 + ? = 14",
+              "answers": ["5", "6", "7", "8"],
+              "correctAnswer": "5"
+            },
+            {
+              "question": "? + 5 = 15",
+              "answers": ["10", "11", "12", "13"],
+              "correctAnswer": "10"
+            },
+            {
+              "question": "6 + ? = 15",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "? + 7 = 15",
+              "answers": ["8", "9", "10", "11"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "8 + ? = 15",
+              "answers": ["7", "8", "9", "10"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "? + 9 = 15",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "6"
+            },
+            {
+              "question": "6 + ? = 16",
+              "answers": ["10", "11", "12", "13"],
+              "correctAnswer": "10"
+            },
+            {
+              "question": "? + 7 = 16",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "8 + ? = 16",
+              "answers": ["8", "9", "10", "11"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "? + 9 = 16",
+              "answers": ["7", "8", "9", "10"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "7 + ? = 17",
+              "answers": ["10", "11", "12", "13"],
+              "correctAnswer": "10"
+            },
+            {
+              "question": "? + 8 = 17",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "9 + ? = 17",
+              "answers": ["8", "9", "10", "11"],
+              "correctAnswer": "8"
+            },
+            {
+              "question": "? + 8 = 18",
+              "answers": ["10", "11", "12", "13"],
+              "correctAnswer": "10"
+            },
+            {
+              "question": "9 + ? = 18",
+              "answers": ["9", "10", "11", "12"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "? + 9 = 19",
+              "answers": ["10", "11", "12", "13"],
+              "correctAnswer": "10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Subtraction",
+      "subcategories": [
+        {
+          "subcategory": "Easy",
+          "questions": [
+            {
+              "question": "9 - 2",
+              "answers": ["6", "5", "4", "7"],
+              "correctAnswer": "7"
+            },
+            {
+              "question": "8 - 3",
+              "answers": ["5", "6", "4", "7"],
+              "correctAnswer": "5"
+            },
+            {
+              "question": "7 - 4",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "3"
+            },
+            {
+              "question": "6 - 5",
+              "answers": ["2", "3", "4", "1"],
+              "correctAnswer": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Multiplication",
+      "subcategories": [
+        {
+          "subcategory": "Easy",
+          "questions": [
+            {
+              "question": "2 x 2",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "3 x 3",
+              "answers": ["6", "7", "8", "9"],
+              "correctAnswer": "9"
+            },
+            {
+              "question": "4 x 4",
+              "answers": ["10", "11", "15", "16"],
+              "correctAnswer": "16"
+            },
+            {
+              "question": "5 x 5",
+              "answers": ["20", "22", "24", "25"],
+              "correctAnswer": "25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Division",
+      "subcategories": [
+        {
+          "subcategory": "Easy",
+          "questions": [
+            {
+              "question": "4 ÷ 2",
+              "answers": ["1", "2", "3", "4"],
+              "correctAnswer": "2"
+            },
+            {
+              "question": "8 ÷ 2",
+              "answers": ["2", "3", "4", "5"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "12 ÷ 3",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "4"
+            },
+            {
+              "question": "15 ÷ 5",
+              "answers": ["3", "4", "5", "6"],
+              "correctAnswer": "3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

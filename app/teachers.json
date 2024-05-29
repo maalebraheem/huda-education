@@ -1,0 +1,99 @@
+{
+    "teachers": [
+      {
+        "id": "t1",
+        "name": "Dr. Emily Smith",
+        "subject": "Chemistry",
+        "rating": 4.9,
+        "bio": "Experienced Organic Chemistry tutor with over 10 years of teaching at a university level.",
+        "classes": [
+          {
+            "name": "Organic Chemistry I",
+            "videos": [
+              {
+                "name": "Introduction to Organic Chemistry I",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/%D8%AC%D8%AF%D9%88%D9%84%20%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%20%20.mp4?alt=media&token=668f8062-e24b-4ff2-8021-c46af21fbe2b"
+              }
+            ],
+            "pdfs": [
+              {
+                "name": "Organic Chemistry I Syllabus",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/Review.pdf?alt=media&token=bb0a9b17-b451-4265-b80a-3dd0f27402ea"
+              }
+            ]
+          },
+          {
+            "name": "Organic Chemistry II",
+            "videos": [
+              {
+                "name": "Advanced Organic Chemistry II",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/%D8%AC%D8%AF%D9%88%D9%84%20%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%20%20.mp4?alt=media&token=668f8062-e24b-4ff2-8021-c46af21fbe2b"
+              },
+              {
+                "name": "Organic Chemistry II Reactions",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/%D8%AC%D8%AF%D9%88%D9%84%20%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%20%20.mp4?alt=media&token=668f8062-e24b-4ff2-8021-c46af21fbe2b"
+              }
+            ],
+            "pdfs": [
+              {
+                "name": "Organic Chemistry II Syllabus",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/Review.pdf?alt=media&token=bb0a9b17-b451-4265-b80a-3dd0f27402ea"
+              },
+              {
+                "name": "Organic Chemistry II Practice Problems",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/Review.pdf?alt=media&token=bb0a9b17-b451-4265-b80a-3dd0f27402ea"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "t2",
+        "name": "Mr. John Doe",
+        "subject": "Physics",
+        "rating": 4.8,
+        "bio": "Passionate about Physics and helping students discover the laws of motion and energy.",
+        "classes": [
+          {
+            "name": "General Physics I",
+            "videos": [
+              {
+                "name": "Fundamentals of General Physics I",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/%D8%AC%D8%AF%D9%88%D9%84%20%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%20%20.mp4?alt=media&token=668f8062-e24b-4ff2-8021-c46af21fbe2b"
+              }
+            ],
+            "pdfs": [
+              {
+                "name": "General Physics I Syllabus",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/Review.pdf?alt=media&token=bb0a9b17-b451-4265-b80a-3dd0f27402ea"
+              }
+            ]
+          },
+          {
+            "name": "General Physics II",
+            "videos": [
+              {
+                "name": "Advanced General Physics II",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/%D8%AC%D8%AF%D9%88%D9%84%20%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%20%20.mp4?alt=media&token=668f8062-e24b-4ff2-8021-c46af21fbe2b"
+              },
+              {
+                "name": "General Physics II Formulas",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/%D8%AC%D8%AF%D9%88%D9%84%20%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%20%20.mp4?alt=media&token=668f8062-e24b-4ff2-8021-c46af21fbe2b"
+              }
+            ],
+            "pdfs": [
+              {
+                "name": "General Physics II Syllabus",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/Review.pdf?alt=media&token=bb0a9b17-b451-4265-b80a-3dd0f27402ea"
+              },
+              {
+                "name": "General Physics II Practice Problems",
+                "accessToken": "https://firebasestorage.googleapis.com/v0/b/tictactoeapp-72a68.appspot.com/o/Review.pdf?alt=media&token=bb0a9b17-b451-4265-b80a-3dd0f27402ea"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
